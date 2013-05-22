@@ -1,13 +1,15 @@
 My Geeklets
 ========
 
-Check out [the screenshot](https://github.com/allusis/geeklets/blob/master/Screenshot.png) file for an example
+Check out the [screenshot file](https://github.com/allusis/geeklets/blob/master/Screenshot.png) for an example
 
 
-Everything should load up all pretty as long as you have GeekTool installed and working properly, but you will have to change the path to the image for the Weather Icon to your own. 
+Everything should load up all pretty as long as you have GeekTool installed and working properly, 
+but you will have to change the path to the image for the Weather Icon to the actual path to your local folder. 
+You can choose either the black or the white folder depending on which icon set you'd like to use. Enjoy!
 
-It should look something like this: 
+The image path should look something like this in that Geeklets settings under image URL: 
 
     file://PATH/TO/FOLDER/Geeklets/Weather/White/ 
 
-you'll want to change "PATH/TO/FOLDER" to the actual path to your local folder when you pull this repo down, and you can choose either the black or the white folder depending on which one you'd like to use. Enjoy!
+
