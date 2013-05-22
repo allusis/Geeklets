@@ -1,7 +1,7 @@
 My Geeklets
 ========
 
-Check out Screenshot.png file for an example
+Check out [the screenshot](https://github.com/allusis/geeklets/blob/master/Screenshot.png) file for an example
 
 
 Everything should load up all pretty as long as you have GeekTool installed and working properly, but you will have to change the path to the image for the Weather Icon to your own. 
