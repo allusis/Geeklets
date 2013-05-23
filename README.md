@@ -15,4 +15,4 @@ The image path should look something like this in that Geeklets settings under i
     file://PATH/TO/FOLDER/Geeklets/Weather/White/ 
 
 
-Enjoy!
+
