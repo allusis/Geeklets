@@ -15,11 +15,11 @@ Everything should load up all pretty as long as you have [GeekTool 3.0.3](http:/
 
 
 
---------------------------
 
 
 
-**Some things you might want to know:**
+
+## Some things you might want to know:
 * The files named *_Label.glet are the labels for each section. "System Uptime", "Memory Usage", "Wireless Devices", and "Volumes".
 * The weather geeklets are in the /weather folder.
 * In order to get the weather icon to work you will have to change the path to your local icon folder. Choose either /weather/black or /weather/white folders depending on which color icons you'd like to use. 
