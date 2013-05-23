@@ -14,12 +14,14 @@ Everything should load up all pretty as long as you have [GeekTool 3.0.3](http:/
 | Wireless Devices | Displays battery percentage for Bluetooth Keyboard, Mouse, or Trackpad |
 | Volumes          | Displays mounted volumes and shows a percentage bar for used space |
 
+
 **Some things you might want to know:**
 * The files named *_Label.glet are the labels for each section. "System Uptime", "Memory Usage", "Wireless Devices", and "Volumes".
 * The weather geeklets are in the /weather folder.
 * The images can be displayed as black or white which can be set by pointing the geeklet at one of those folders.
 * In order to get the weather icon to work you will have to change the path to the image to the actual path to your local folder. 
 * The image path should look something like this in the Geeklets image URL field: 
+
 
     file://PATH/TO/FOLDER/Geeklets/Weather/White/ 
 
