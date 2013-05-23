@@ -10,7 +10,7 @@ Everything should load up all pretty as long as you have [GeekTool 3.0.3](http:/
 In order to get the weather icon to work you will have to change the path to the image to the actual path to your local folder. 
 You can choose either the black or the white folder depending on which icon set you'd like to use.
 
-The image path should look something like this in that Geeklets image URL field: 
+The image path should look something like this in the Geeklets image URL field: 
 
     file://PATH/TO/FOLDER/Geeklets/Weather/White/ 
 
