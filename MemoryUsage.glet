@@ -58,7 +58,7 @@ printf "Total Used: %s\n", (((INACTIVE_BLOCKS+WIRED_BLOCKS)*4096/1048576)+(4096-
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.shell</string>
 	<key>RefreshInterval</key>
-	<integer>25</integer>
+	<integer>30</integer>
 	<key>SetLocale</key>
 	<true/>
 	<key>ShadowBlur</key>

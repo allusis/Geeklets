@@ -2,19 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Alignment</key>
+	<integer>0</integer>
 	<key>GeekletFrame</key>
-	<string>{{-6, 57}, {103, 80}}</string>
+	<string>{{-6, 53}, {103, 80}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.image</string>
 	<key>ImageURL</key>
-	<string>file://localhost/Users/tonysmini/Dropbox/Development/Snippets/GeekTool/new/Weather/Weather/White/</string>
+	<string>file://localhost/Users/</string>
 	<key>Name</key>
 	<string>WEATHER ICONS</string>
 	<key>Opacity</key>
 	<real>1</real>
 	<key>RefreshInterval</key>
-	<integer>900</integer>
+	<integer>360</integer>
 </dict>
 </plist>

@@ -46,7 +46,7 @@
 	<key>OverrideText</key>
 	<string>VOLUMES</string>
 	<key>RefreshInterval</key>
-	<integer>54545454</integer>
+	<integer>6000</integer>
 	<key>SetLocale</key>
 	<true/>
 	<key>SuccessImage</key>

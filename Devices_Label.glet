@@ -38,13 +38,15 @@
 	<key>FontSize</key>
 	<real>14</real>
 	<key>GeekletFrame</key>
-	<string>{{16, 436}, {482, 73}}</string>
+	<string>{{14, 507}, {638, 45}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.shell</string>
 	<key>OverrideText</key>
 	<string>WIRELESS DEVICES</string>
+	<key>RefreshInterval</key>
+	<integer>6000</integer>
 	<key>SetLocale</key>
 	<true/>
 	<key>SuccessImage</key>

@@ -45,6 +45,8 @@
 	<string>org.tynsoe.geeklet.shell</string>
 	<key>Name</key>
 	<string>WEATHER NUMBER</string>
+	<key>RefreshInterval</key>
+	<integer>360</integer>
 	<key>SetLocale</key>
 	<true/>
 	<key>SuccessImage</key>

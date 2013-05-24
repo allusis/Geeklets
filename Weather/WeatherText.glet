@@ -52,7 +52,7 @@ strx=`curl --silent "http://xml.weather.yahoo.com/forecastrss?p=THXX0024&amp;u=c
 	<key>Name</key>
 	<string>WEATHER TEXT</string>
 	<key>RefreshInterval</key>
-	<integer>900</integer>
+	<integer>360</integer>
 	<key>SetLocale</key>
 	<true/>
 	<key>SuccessImage</key>
