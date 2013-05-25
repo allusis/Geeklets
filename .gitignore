@@ -1,0 +1,6 @@
+## generic files to ignore
+*.lock
+*.DS_Store
+
+## Ignore the source folder
+/_SOURCE
