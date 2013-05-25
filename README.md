@@ -1,7 +1,10 @@
 My Geeklets
 ========
 ![picture](https://raw.github.com/allusis/geeklets/master/Screenshot.png)    
-![picture](https://raw.github.com/allusis/geeklets/master/Screenshot_laptop.png)    
+    
+
+
+[![picture target](https://dl.dropboxusercontent.com/u/1621719/Demos/Github/Geeklets/Screenshot_laptop_sm.jpg)](https://raw.github.com/allusis/geeklets/master/Screenshot_laptop.png blank)
 
 Everything should load up all pretty as long as you have [GeekTool 3.0.3](http://itunes.apple.com/us/app/geektool/id456877552?l=fr&ls=1&mt=12) installed and working properly. Chances are these will work with most versions, but I haven't tested. 
 
