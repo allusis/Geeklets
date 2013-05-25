@@ -1,13 +1,8 @@
 My Geeklets
 ========
-    
-<a href="https://raw.github.com/allusis/geeklets/master/Screenshot.png" target="_blank" style="float:left">
-  ![picture target](https://dl.dropboxusercontent.com/u/1621719/Demos/Github/Geeklets/Screenshot_sm.jpg)]
-</a>
-
-<a href="https://raw.github.com/allusis/geeklets/master/Screenshot_laptop.jpg" target="_blank" style="float:left">
-  ![picture target](https://dl.dropboxusercontent.com/u/1621719/Demos/Github/Geeklets/Screenshot_laptop_sm.jpg)]
-</a>
+| Desktop | Laptop |
+|:--------|:-------|
+|<a href="https://raw.github.com/allusis/geeklets/master/Screenshot.png" target="_blank" style="float:left">![picture target](https://dl.dropboxusercontent.com/u/1621719/Demos/Github/Geeklets/Screenshot_sm.jpg)</a>|<a href="https://raw.github.com/allusis/geeklets/master/Screenshot_laptop.jpg" target="_blank" style="float:left">![picture target](https://dl.dropboxusercontent.com/u/1621719/Demos/Github/Geeklets/Screenshot_laptop_sm.jpg)</a>|
 
 
 
