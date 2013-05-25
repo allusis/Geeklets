@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Command</key>
-	<string>wtheme=`echo White`;url=`echo "http://xml.weather.yahoo.com/forecastrss?p=THXX0024&amp;u=c"`;tx=`curl --silent "$url" | grep  '/us/we/52/' | tail -n1 | awk '{print $2}'`;i=`echo ${#tx}`;let y=$i-10;let z=$y-36;n=`echo ${tx:36:$z}`;ln -sf ~/Documents/MINIMAL/Weather/$wtheme/$n.png /tmp/weather_icons.png;
+	<string>wtheme=`echo White`;url=`echo "http://xml.weather.yahoo.com/forecastrss?p=12047&amp;u=c"`;tx=`curl --silent "$url" | grep  '/us/we/52/' | tail -n1 | awk '{print $2}'`;i=`echo ${#tx}`;let y=$i-10;let z=$y-36;n=`echo ${tx:36:$z}`;ln -sf ~/Documents/MINIMAL/Weather/$wtheme/$n.png /tmp/weather_icons.png;
 
 
 
-strx=`curl --silent "http://xml.weather.yahoo.com/forecastrss?p=THXX0024&amp;u=c" | grep -E '(Current Conditions:|C&lt;BR)' | sed -e 's/Current Conditions://' -e 's/&lt;br \/&gt;//' -e 's/&lt;b&gt;//' -e 's/&lt;\/b&gt;//' -e 's/&lt;BR \/&gt;//' -e 's/&lt;description&gt;//' -e 's/&lt;\/description&gt;//' -e 's/,//' | tail -n1 | tr '[:lower:]' '[:upper:]'`;i=`echo ${#strx}`;let y=$i-4;echo ${strx:0:$y};
+strx=`curl --silent "http://xml.weather.yahoo.com/forecastrss?p=12047&amp;u=c" | grep -E '(Current Conditions:|C&lt;BR)' | sed -e 's/Current Conditions://' -e 's/&lt;br \/&gt;//' -e 's/&lt;b&gt;//' -e 's/&lt;\/b&gt;//' -e 's/&lt;BR \/&gt;//' -e 's/&lt;description&gt;//' -e 's/&lt;\/description&gt;//' -e 's/,//' | tail -n1 | tr '[:lower:]' '[:upper:]'`;i=`echo ${#strx}`;let y=$i-4;echo ${strx:0:$y};
 
 </string>
 	<key>DropShadow</key>
