@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Command</key>
-	<string>wtheme=`echo White`;url=`echo "http://xml.weather.yahoo.com/forecastrss?p=12047&amp;u=c"`;tx=`curl --silent "$url" | grep  '/us/we/52/' | tail -n1 | awk '{print $2}'`;i=`echo ${#tx}`;let y=$i-10;let z=$y-36;n=`echo ${tx:36:$z}`;ln -sf ~/PATH/TO/Weather/$wtheme/$n.png /tmp/weather_icons.png;
+	<string>wtheme=`echo White`;url=`echo "http://xml.weather.yahoo.com/forecastrss?p=90210&amp;u=c"`;tx=`curl --silent "$url" | grep  '/us/we/52/' | tail -n1 | awk '{print $2}'`;i=`echo ${#tx}`;let y=$i-10;let z=$y-36;n=`echo ${tx:36:$z}`;ln -sf ~/PATH/TO/Weather/$wtheme/$n.png /tmp/weather_icons.png;
 
 
 
