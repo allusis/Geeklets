@@ -11,7 +11,7 @@
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.image</string>
 	<key>ImageURL</key>
-	<string>file://localhost/Users/</string>
+	<string>file://localhost/tmp/weather_icons.png</string>
 	<key>Name</key>
 	<string>WEATHER ICONS</string>
 	<key>Opacity</key>
